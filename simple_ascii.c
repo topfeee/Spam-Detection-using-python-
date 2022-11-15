@@ -17,12 +17,12 @@ void main()
         printf("input charecter = ");
         scanf("%c", &c);
         getchar();
-        printf("ACII is %d", c);
+        printf("ASCII is %d", c);
         printf("\n");
         }
         else if (i=2)
         {
-        printf("input charecter = DC1 (Don't enter it again this is a defualt)\nACII is 17\n");
+        printf("input charecter = DC1 (Don't enter it again this is a defualt)\nASCII is 17\n");
         }
     }
 }
